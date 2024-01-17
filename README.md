@@ -31,4 +31,8 @@ Creating the log analytics workspace, and connecting it to the VM<br/>
  <img src="https://i.imgur.com/mBD9sBt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/y8I6Rbm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
