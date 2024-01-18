@@ -19,7 +19,7 @@ In this SIEM lab, Microsoft Azure is employed to create a virtual machine. Firew
 
 <p align="center">
 Creating an inbound rule to allow all traffic into my VM<br/>
-<img src="https://i.imgur.com/CUFypy6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CUFypy6.png" height="80%" width="80%"/>
 <br />
 <br />
 Here's the virtual machine that I created. I also made a resource group to group together the resources that I needed for this lab <br/>
@@ -27,12 +27,62 @@ Here's the virtual machine that I created. I also made a resource group to group
 <br />
 <br />
 Creating the log analytics workspace, and connecting it to the VM<br/>
-<img src="https://i.imgur.com/oOgzlHS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/mBD9sBt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oOgzlHS.png" height="80%" width="80%"/>
+ <img src="https://i.imgur.com/mBD9sBt.png" height="80%" width="80%"/>
 <br />
 <br />
 Connecting the analytics workspace to microsoft sentinel<br/>
-<img src="https://i.imgur.com/y8I6Rbm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YvFal3B.png%60" height="80%" width="80%"/>
 <br />
 <br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/PI8YOkW.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/8hJ95yS.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/Bm7pdkQ.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/unBdN9Z.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/KkWAnNf.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src=" https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/1DzNXQd.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/iZQoR2y.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/1DzNXQd.png" height="80%" width="80%"/>
+<br />
+<br />
+Connecting the analytics workspace to microsoft sentinel<br/>
+<img src="https://i.imgur.com/MY7wSYJ.png" height="80%" width="80%"/>
+<br />
+<br />
+
+
+
+
+
+
 
