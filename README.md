@@ -35,47 +35,48 @@ Connecting the analytics workspace to microsoft sentinel<br/>
 <img src="https://i.imgur.com/YvFal3B.png%60" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+Using remote desktop connection to connect to the virtual machine<br/>
 <img src="https://i.imgur.com/PI8YOkW.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+Checking event viewer, with failed and successful login attempts into the vm<br/>
 <img src="https://i.imgur.com/8hJ95yS.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+Disabling the firewalls inside of the virtual machine. We also created an inbound rule whenever we created the virtual machine to allow all traffic in<br/>
 <img src="https://i.imgur.com/Bm7pdkQ.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+This is the API we used to generate a code for our powershell script to gather IP info for users<br/>
 <img src="https://i.imgur.com/unBdN9Z.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+This is the powershell script that I used to gather info on users who tried to brute force the virtual machine. This script is going to gather the info of the
+ attacker and collect their information<br/>
 <img src="https://i.imgur.com/KkWAnNf.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+x5<br/>
 <img src=" https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+x6<br/>
 <img src="https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+x7<br/>
 <img src="https://i.imgur.com/1DzNXQd.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+x8<br/>
 <img src="https://i.imgur.com/iZQoR2y.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+x9<br/>
 <img src="https://i.imgur.com/1DzNXQd.png" height="80%" width="80%"/>
 <br />
 <br />
-Connecting the analytics workspace to microsoft sentinel<br/>
+x10<br/>
 <img src="https://i.imgur.com/MY7wSYJ.png" height="80%" width="80%"/>
 <br />
 <br />
