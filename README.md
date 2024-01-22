@@ -71,11 +71,13 @@ I ran simple one line script to make sure the login failures(4625) is working. (
 <img src="https://i.imgur.com/iZQoR2y.png" height="80%" width="80%"/>
 <br />
 <br />
-x9<br/>
+possibly delete<br/>
 <img src="https://i.imgur.com/1DzNXQd.png" height="80%" width="80%"/>
 <br />
 <br />
-x10<br/>
+Here's the end result. We gathered all the failed login attempts from event viewer, used the powershell script
+to gather the specific information about the attackers, and used log analytics to get these logs and sort out
+where the attackers are attacking from on a map, by using our geoIP code.<br/>
 <img src="https://i.imgur.com/MY7wSYJ.png" height="80%" width="80%"/>
 <br />
 <br />
