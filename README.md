@@ -56,19 +56,18 @@ This is the powershell script that I used to gather info on users who tried to b
 <img src="https://i.imgur.com/KkWAnNf.png" height="80%" width="80%"/>
 <br />
 <br />
-x5<br/>
 <img src=" https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
-x6<br/>
+This is a custom log thats used to show Azure what the data were collecting is supposed to look like<br/>
 <img src="https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
-x7<br/>
+The powershell script takes data from the log and dislays it as shown<br/>
 <img src="https://i.imgur.com/1DzNXQd.png" height="80%" width="80%"/>
 <br />
 <br />
-x8<br/>
+I ran simple one line script to make sure the login failures(4625) is working. ((THIS COMES FIRST BEFORE PREVIOUS PHOTO))<br/>
 <img src="https://i.imgur.com/iZQoR2y.png" height="80%" width="80%"/>
 <br />
 <br />
