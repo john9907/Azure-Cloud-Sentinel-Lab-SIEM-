@@ -16,17 +16,19 @@ In this SIEM lab, Microsoft Azure is employed to create a virtual machine. Firew
 - <b>Azure Virtual Desktop (Windows 10)</b>
 
 <h2>Program walk-through:</h2>
-
 <p align="center">
-Creating an inbound rule to allow all traffic into my VM<br/>
+I created a Microsoft Azure subscription, and navigated to the virtual machine tab. The screenshots below show the steps that were executed to complete the lab.
+<br />
+<br />
+Configuring the network security group for the VM. Creating an inbound rule to allow all traffic into my VM<br/>
 <img src="https://i.imgur.com/CUFypy6.png" height="80%" width="80%" href="Sample"/>
 <br />
 <br />
-Here's the virtual machine that I created. I also made a resource group to group together the resources that I needed for this lab <br/>
+Here's the virtual machine that I created. I also added it to the resource group that I'll be using for every tool in this lab.<br/>
 <img src="https://i.imgur.com/Pz2BCFu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating the log analytics workspace, and connecting it to the VM<br/>
+Creating the log analytics workspace to take in information from our VM's event viewer, and create our own custom log to gather geographic information, then connecting it to the VM<br/>
 <img src="https://i.imgur.com/oOgzlHS.png" height="80%" width="80%"/>
  <img src="https://i.imgur.com/mBD9sBt.png" height="80%" width="80%"/>
 <br />
@@ -39,7 +41,7 @@ Using remote desktop connection to connect to the virtual machine<br/>
 <img src="https://i.imgur.com/PI8YOkW.png" height="80%" width="80%"/>
 <br />
 <br />
-Checking event viewer, with failed and successful login attempts into the vm<br/>
+Checking event viewer in our VM. Here we can see failed and successful login attempts into the vm. This is where we'll extract metadata (IP, username, etc.)  <br/>
 <img src="https://i.imgur.com/8hJ95yS.png" height="80%" width="80%"/>
 <br />
 <br />
