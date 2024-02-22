@@ -50,12 +50,11 @@ We disabled the firewall within the virtual machine, and in addition, we configu
 <img src="https://i.imgur.com/Bm7pdkQ.png" height="80%" width="80%"/>
 <br />
 <br />
-This is the API we used to generate a code for our powershell script to gather IP info for users<br/>
+This is the API key we need for this powershell script. This API key will be used in our powershell script for our next step<br/>
 <img src="https://i.imgur.com/unBdN9Z.png" height="80%" width="80%"/>
 <br />
 <br />
-This is the powershell script that I used to gather info on users who tried to brute force the virtual machine. This script is going to gather the info of the
-attacker and collect their information<br/>
+The PowerShell script here will utilize the API Key from ipgeolocation.io to gather geo data from the IP address derived from Windows Event Viewer failed login attempts. <br/>
 <img src="https://i.imgur.com/KkWAnNf.png" height="80%" width="80%"/>
 <br />
 <br />
