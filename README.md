@@ -21,6 +21,7 @@ I created a Microsoft Azure subscription, and navigated to the virtual machine t
 <br />
 <br />
 Configuring the network security group for the VM. Creating an inbound rule to allow all traffic into my VM<br/>
+ <br />
 <img src="https://i.imgur.com/CUFypy6.png" height="80%" width="80%" href="Sample"/>
 <br />
 <br />
