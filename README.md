@@ -54,14 +54,14 @@ This is the API key we need for this powershell script. This API key will be use
 <img src="https://i.imgur.com/unBdN9Z.png" height="80%" width="80%"/>
 <br />
 <br />
-The PowerShell script here will utilize the API Key from ipgeolocation.io to gather geo data from the IP address derived from Windows Event Viewer failed login attempts. <br/>
+The PowerShell script here will utilize the API Key from ipgeolocation.io to gather geo data from the IP address derived from Windows Event Viewer failed login attempts. Itll then log this information into a custom log file.<br/>
 <img src="https://i.imgur.com/KkWAnNf.png" height="80%" width="80%"/>
 <br />
 <br />
 <img src=" https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
-This is a custom log thats used to show Azure what the data were collecting is supposed to look like<br/>
+This is a custom log thats used to show Azure what the data were collecting is supposed to look like. Azure will grab the logs from the VM that are generated and stored in the failed_rdp.log file, and use these logs for the tools in the next step.<br/>
 <img src="https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
