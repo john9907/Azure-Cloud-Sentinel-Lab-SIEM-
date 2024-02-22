@@ -45,7 +45,7 @@ Checking event viewer in our VM. Here we can see failed and successful login att
 <img src="https://i.imgur.com/8hJ95yS.png" height="80%" width="80%"/>
 <br />
 <br />
-Disabling the firewalls inside of the virtual machine. We also created an inbound rule whenever we created the virtual machine to allow all traffic in<br/>
+We disabled the firewall within the virtual machine, and in addition, we configured an inbound rule at the Azure Network Security Group to allow all traffic into the virtual machine regardless of its source. With both of these actions, the virtual machine lacks the ability to inspect incoming or outgoing traffic at the network level, compromising its security. <br/>
 <img src="https://i.imgur.com/Bm7pdkQ.png" height="80%" width="80%"/>
 <br />
 <br />
