@@ -105,7 +105,7 @@ This is a custom log used to demonstrate to log analytics the format of the data
 <img src="https://i.imgur.com/hBodet0.png" height="80%" width="80%"/>
 <br />
 <br />
-Validation that the logs are functioning and log analytics is ingesting the failed login attempts, as shown utilizing Kusto Query Language (KQL) to displsy event failure ID's.
+Validation that the logs are functioning and log analytics is ingesting the failed login attempts, as shown utilizing Kusto Query Language (KQL) to display event failure ID's.
 <br />
 <br />
 <img src="https://i.imgur.com/iZQoR2y.png" height="80%" width="80%"/>
