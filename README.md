@@ -6,8 +6,9 @@ In this SIEM lab, Microsoft Azure is employed to create a virtual machine. Firew
 <br />
 <h2>Skills learned</h2>
 
-- <b>Extracting metadata from Windows Applications</b>
-- <b>Navigating and utilizing Microsoft Azure tools (Log analytics, Virtual Machines, Azure Sentinel)</b>
+- <b>Extracting metadata from Windows Applications.</b>
+- <b>Navigating and utilizing Microsoft Azure tools (Log analytics, Virtual Machines, Azure Sentinel).</b>
+- <b>Better understanding of SIEM concepts and practical applications.</b>
 
 <h2>Languages and Utilities Used</h2>
 
